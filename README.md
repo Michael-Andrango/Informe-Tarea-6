@@ -107,36 +107,53 @@ SECCIÓN 11–7 Análisis de circuitos de ca
 
 ![image](https://user-images.githubusercontent.com/107088999/212107580-6f936055-b957-4c9b-9c74-07a24b950a61.png)
 
-![image](https://user-images.githubusercontent.com/107088999/212194355-d1765849-cd5a-4c4f-a82b-b032ef952f2c.png)
-
+![image](https://user-images.githubusercontent.com/107088999/212198368-6a8b8b03-2bbe-484d-b6cd-f64692f09eed.png)
 
 SECCIÓN 11–8 Voltajes superpuestos de cd y de ca
 
 30. ¿Cuánto voltaje de cd se debe agregar a una onda seno de 3 V rms para hacer el voltaje resultante no alterno (valores negativos)?
 
+![image](https://user-images.githubusercontent.com/107088999/212198769-282bc2e3-9de1-4007-a672-210fd1515bf5.png)
 
-* 32. La figura 11-83 muestra una fuente de voltaje sinusoidal dispuesta en serie con una fuente de cd. Efectivamente, los dos voltajes están superpuestos. Determine la disipación de potencia en el resistor de carga.
+
+32. La figura 11-83 muestra una fuente de voltaje sinusoidal dispuesta en serie con una fuente de cd. Efectivamente, los dos voltajes están superpuestos. Determine la disipación de potencia en el resistor de carga.
 
 ![image](https://user-images.githubusercontent.com/107088999/212108580-3858c5e8-2345-49d2-8092-fed55b6a6a1d.png)
+
+![image](https://user-images.githubusercontent.com/107088999/212198892-73052021-dad0-490a-b87c-67f9049be95c.png)
+
 
 SECCIÓN 11–9 Formas de onda no sinusoidales
 
 34. La frecuencia de repetición de una forma de onda pulsante es de 2 kHz, y el ancho de pulso es de 1 ms. ¿Cuál es el ciclo de trabajo en porcentaje?
 
+Ciclo de trabajo en porcentaje: (tw/T)100%
+
+Ciclo de trabajo en porcentaje: (1us/500us)100%
+
+Ciclo de trabajo en porcentaje: 0.2%
+
 36. Determine el ciclo de trabajo de cada una de las formas de onda mostradas en la figura 11-86.
+
+![image](https://user-images.githubusercontent.com/107088999/212199351-f53937b8-4f33-4e1e-adb2-cad9b14cfa5d.png)
+
 
 38. ¿Cuál es la frecuencia de cada una de las formas de onda mostradas en la figura 11-86?
 
-* 40. Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor promedio.
+![image](https://user-images.githubusercontent.com/107088999/212199815-522de0eb-ba2c-4f01-ae46-2a9aa37c64fb.png)
+
+
+40. Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor promedio.
 
 ![image](https://user-images.githubusercontent.com/107088999/212110673-8edece9d-0ee6-4dca-9462-9b6c4e0d6d33.png)
 
+![image](https://user-images.githubusercontent.com/107088999/212200311-7fdc4786-271d-41dd-a038-21a25033bd7d.png)
+
+
 42. ¿Cuál es la frecuencia fundamental de la onda cuadrada mencionada en el problema 41?
 
+![image](https://user-images.githubusercontent.com/107088999/212200723-460575f5-efad-4e53-b4d5-e99807ce5c78.png)
 
-SECCIÓN 11–10 El osciloscopio
-
-* 44. Con base en los ajustes del instrumento y en un examen de la pantalla del osciloscopio y de la tarjeta prototipo mostrados en la figura 11-90, determine la frecuencia y el valor pico de las señales de entrada y salida. La forma de onda mostrada es el canal 1. Trace la forma de onda del canal 2 como aparecería en el osciloscopio con los ajustes indicados.
 
 CAPITULO 12
 
