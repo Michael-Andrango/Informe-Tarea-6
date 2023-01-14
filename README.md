@@ -161,28 +161,57 @@ SECCIÓN 12–1 El capacitor básico
 
 2. Transforme los siguientes valores de microfarads a picofarads:
 
+(a) 0.1 uF (b) 0.0025 uF (c) 4.7 uF
+
+a) 0.1 x 10^6 = 100000 pF
+
+b) 0.0025 x 10^6 = 2500 pF
+
+c) 4.7 x 10^6 = 47000000 pF
+
 
 4. Transforme los siguientes valores de farads a microfarads;
 
 (a) 0.0000001 F (b) 0.0022 F (c) 0.0000000015 F
 
+a) 0.0000001 x 10^6 = 0.1 pF
+
+b) 0.0022 x 10^6 = 2200 pF
+
+c) 0.0000000015 x 10^6 = 0.00015 pF
+
 6. ¿Qué tamaño de capacitor es capaz de guardar 10 mJ de energía con 100 V entre sus placas?
 
+w= 1/2 CV^2
+
+C=2W/V^2 = (2)(10)/100^2 =2uF
 
 8. Un capacitor de mica tiene placas cuadradas de 3.8 cm por lado con una separación entre ellas de 2.5 mils.¿Cuál es la capacitancia?
 
-* 10. Un estudiante desea construir un capacitor de 1 F con dos placas cuadradas para un proyecto de feria de las ciencias. Planea utilizar un dieléctrico de papel (er 5 2.5) de 8 3 1025 m de espesor. La feria de las ciencias se va a llevar a cabo en el “Astrodomo”. ¿Cabrá su capacitor en el “Astrodomo”? ¿De qué tamaño serían las placas si pudieran ser construidas?
+![image](https://user-images.githubusercontent.com/107088999/212442980-c87f85d5-3c27-4c76-93ae-7db7280625db.png)
+
+10. Un estudiante desea construir un capacitor de 1 F con dos placas cuadradas para un proyecto de feria de las ciencias. Planea utilizar un dieléctrico de papel (er 5 2.5) de 8 3 1025 m de espesor. La feria de las ciencias se va a llevar a cabo en el “Astrodomo”. ¿Cabrá su capacitor en el “Astrodomo”? ¿De qué tamaño serían las placas si pudieran ser construidas?
+
+![image](https://user-images.githubusercontent.com/107088999/212443163-e3123f5e-6bba-4b7e-acee-fb2e32796fa7.png)
 
 
 12. A temperatura ambiente (25°C), se especifica que cierto capacitor sea de 1000 pF. El capacitor tiene coeficiente de temperatura negativo de 200 ppm/°C. ¿Cuál es su capacitancia a 75°C?
+
+![image](https://user-images.githubusercontent.com/107088999/212443224-f832c95c-5d1b-4da0-85d2-aca4788a3856.png)
+
 
 SECCIÓN 12–2 Tipos de capacitores
 
 14. En la construcción de un capacitor de hojas de mica y laminillas apiladas, ¿cómo se incrementa el área de placas?
 
+R: El area de la placa se incrementa al aumentar el numero de capas de placa y materiales dielectricos. 
+
+
 16. Muestre cómo conectar un capacitor electrolítico de un lado a otro de R2 entre los puntos A y B en la figura 12-66.
 
 ![image](https://user-images.githubusercontent.com/107088999/212113662-7b39c6c6-3160-4f1e-b502-73dbb6b2a725.png)
+
+
 
 18. Identifique las partes del capacitor de disco de cerámica mostrado en la vista de corte de la figura 12-67.
 
