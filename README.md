@@ -381,4 +381,8 @@ R= 1/(8kHz)(100pF)= 1250 kΩ
 
 5. Video
 
+https://www.youtube.com/watch?v=Z8hzK2fm1CI
+
 6. Bibliografia 
+
+Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson
