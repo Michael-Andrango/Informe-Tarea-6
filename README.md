@@ -20,6 +20,16 @@ INTRODUCCION A LA CORRIENTE Y AL VOLTAJE ALTERNOS - CAPACITORES
 
 2. Marco Teorico
 
+![Presentación para Pizarra Online Lluvia de Ideas Planificación Equipo Ilustrativo Divertido Ws Naranja Rosa Amarillo (1)](https://user-images.githubusercontent.com/107088999/213303397-850d5cc0-d929-4833-af37-6586cac3bf8d.jpg)
+
+![Folleto tríptico Flyer Academia de clases de repaso escolar Doodle Marrón y blanco (1)](https://user-images.githubusercontent.com/107088999/213303504-31a5fa2e-1d83-43f5-b444-233e0c7bd388.jpg)
+
+![Gráfico Mapa Mental Conceptos Bombilla Lluvia de Ideas Orgánico Multicolor (1)](https://user-images.githubusercontent.com/107088999/213307201-e8cef51c-1e73-40e3-bb1a-5f353bb340d3.jpg)
+
+![presentacion escolar juvenil celeste (1)](https://user-images.githubusercontent.com/107088999/213315418-ead6cd2f-e52a-4ad8-b8c4-9b1ea10717c1.jpg)
+
+
+
 3. Explicacion y resolucion de ejercicios o problemas
 
 
